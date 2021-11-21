@@ -43,3 +43,10 @@ other
 
 The slower growth in technological innovation will also bring a significant
 threat in the upcoming dynamic world.
+## HIGH LEVEL REQUIREMENTS:-
+| ID | Description | Category | 
+| ----- | ----- | ------- | 
+|HLR01|----------------|-----|  
+|HLR02|----------------|-----|
+|HLR03|----------------|-----|
+|HLR04|----------------|-----|
