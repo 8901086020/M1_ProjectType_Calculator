@@ -6,7 +6,7 @@
 
   
 # Class Diagram  
-# ![class (1)](https://user-images.githubusercontent.com/69413922/132315060-d77c79d6-5a87-4075-8f37-00111ef69d67.png)
+# ![class table](https://user-images.githubusercontent.com/63248297/143068692-ea08798c-f491-4419-a6f0-ab3057a89d39.JPG)
 
 
 
