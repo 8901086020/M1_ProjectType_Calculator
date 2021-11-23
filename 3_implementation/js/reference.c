@@ -5,3 +5,5 @@ void division();
 void modulus();
 void power();
 int factorial();
+int sqrt();
+int square();
