@@ -12,10 +12,12 @@ int power();
 int factorial();
 int sqrt();
 int square();
+int degree();
 
 int main() {
   
   int choice; 
+  double degree;
   int n1,n2, ans=0;
   printf("Select the operation you want perform");
   printf("1.Additon\n 2.Subtraction\n 3.multplication \n 4.Division \n 5.Modules\n 6.Power\n 7.Factorial \n 8.Squareroot\n ");
@@ -84,9 +86,16 @@ int main() {
        
   case 9: 
         printf("\nEnter a number to find square : ");
-        scanf("%d",&n1);
+        scanf("%d",&degree);
         ans = square(n1); 
         printf("answer=%d",ans);
+        break;  
+     
+   case 10: 
+        printf("\nEnter your angle value in degree : ");
+        scanf("%lf",&degree);
+        ans = trigno(degree); 
+        printf("%lf",ans);
         break;  
   
   default:
