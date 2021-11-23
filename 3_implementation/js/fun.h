@@ -10,3 +10,4 @@ int division();
 int modulus();
 int power();
 int factorial();
+int sqrt();
