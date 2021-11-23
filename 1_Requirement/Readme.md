@@ -45,16 +45,16 @@ threat in the upcoming dynamic world.
 ## HIGH LEVEL REQUIREMENTS:-
 | ID | Description | Category | 
 | ----- | ----- | ------- | 
-|HLR01|----------------|-----|  
-|HLR02|----------------|-----|
-|HLR03|----------------|-----|
-|HLR04|----------------|-----|
+|HLR01|User should able to viewe operation list|technical|  
+|HLR02|User should able to select the operation|technical|
+|HLR03|The system sould able perform the given operation	|technical|
+|HLR04|The system should provide correct result|technical|
 
 ## LOW LEVEL REQUIREMENTS:-
 | ID | Description | Category | 
 | ----- | ----- | ------- |
-|LLR01|----------------|-----|  
-|LLR02|----------------|-----|
-|LLR03|----------------|-----|
-|LLR04|----------------|-----|
+|LLR01|User must specify the number|technical|  
+|LLR02|User must choosen the operation|technical|
+|LLR03|User must enter the operation|technical|
+|LLR04|User must get the result of it|technical|
 
