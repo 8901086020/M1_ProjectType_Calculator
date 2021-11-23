@@ -1,7 +1,8 @@
 # Structure Diagrams
 # Component Diagram   
 
-# 
+# ![structurediagram](https://user-images.githubusercontent.com/63248297/143031329-d5594047-e3bf-4d31-87ef-9e83bba51f4d.JPG)
+
 
   
 # Class Diagram  
