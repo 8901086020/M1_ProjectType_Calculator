@@ -10,7 +10,7 @@ int division();
 int modulus();
 int power();
 int factorial();
-int sqrt();
+double sqrt();
 int square();
 int trigno();
 
@@ -79,9 +79,9 @@ int main() {
      
   case 8: 
         printf("\nEnter a number to find sqrt : ");
-        scanf("%d",&n1);
+        scanf("%lf",&n1);
         ans = sqrt(n1); 
-        printf("answer=%d",ans);
+        printf("answer=%lf",ans);
         break;  
        
   case 9: 
