@@ -42,6 +42,28 @@ other
 
 The slower growth in technological innovation will also bring a significant
 threat in the upcoming dynamic world.
+
+# 4W's and 1'H :-
+
+- # What
+  calculator is typically a portable electronic device used to perform calculations, ranging from basic arithmetic to complex mathematics.
+- # Where
+
+It has to be used easily by the users and complete work on time.
+
+- # When
+
+It has to be deployed 25th of November 2021.
+
+- # Why
+
+I am Developing this basic calculator because so that the user can easily do thier work with some new functuion. 
+
+- # How
+
+I am using C programming language for Developing this simple basic calculator.
+
+
 ## HIGH LEVEL REQUIREMENTS:-
 | ID | Description | Category | 
 | ----- | ----- | ------- | 
