@@ -86,7 +86,7 @@ int main() {
        
   case 9: 
         printf("\nEnter a number to find square : ");
-        scanf("%d",&degree);
+        scanf("%d",&n1);
         ans = square(n1); 
         printf("answer=%d",ans);
         break;  
