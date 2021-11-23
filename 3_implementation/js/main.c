@@ -12,7 +12,7 @@ int main() {
   int choice; 
   int n1,n2, ans=0;
   printf("Select the operation you want perform");
-  printf("1.Additon\n 2.Subtraction\n 3.multplication \n 4.Division \n 5.Modules\n 6.Power\n 7.Factorial \n ");
+  printf("1.Additon\n 2.Subtraction\n 3.multplication \n 4.Division \n 5.Modules\n 6.Power\n 7.Factorial \n 8.Squareroot\n ");
   scanf("%d", &choice);
 
 
