@@ -5,7 +5,8 @@ int multiplication();
 int division();
 int modulus();
 int power();
-int factorial(); 
+int factorial();
+int sqrt()
 int main() {
   
   int choice; 
