@@ -12,7 +12,7 @@ int power();
 int factorial();
 int sqrt();
 int square();
-int degree();
+int trigno();
 
 int main() {
   
