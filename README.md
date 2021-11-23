@@ -46,7 +46,7 @@ threat in the upcoming dynamic world.
 
 # SDLC Activity Based Learning
 Build | Code Quality | Git Inspector | code quality score | code grade |
-|---------|https://app.codiga.io/public/project/29823/M1_ProjectType_Calculator/dashboard|-------------|--------------------|------------|
+|---------|----------|-------------|--------------------|------------|
 
 #### Folder Structure
 Folder             | Description
