@@ -44,4 +44,15 @@ int multiply(int operand1, int operand2);
 */
 int divide(int operand1, int operand2);
 
+int power(int operand1, int operand2);
+
+int modulus(int operand1, int operand2);
+
+int factorial(int operand1);
+
+int square(int operand1);
+
+int sqrt(int operand1);
+
+int trigno(int operand1);
 #endif  /* #define __CALCULATOR_OPERATIONS_H__ */
