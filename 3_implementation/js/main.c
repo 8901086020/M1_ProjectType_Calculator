@@ -66,8 +66,14 @@ int main() {
         ans = factorial(n1); 
         printf("answer=%d",ans);
         break;  
-   
-    default:
+     case 8: 
+        printf("\nEnter a number to find sqrt : ");
+        scanf("%d",&n1);
+        ans = sqrt(n1); 
+        printf("answer=%d",ans);
+        break;  
+    
+  default:
       printf("Error! operator is not correct");
   }
 
