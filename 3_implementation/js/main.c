@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include<conio.h>
+#include<stdlib.h>
  int addition();
 int subtraction();
 int multiplication();
