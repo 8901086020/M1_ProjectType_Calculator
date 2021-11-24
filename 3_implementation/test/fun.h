@@ -10,7 +10,6 @@ int division();
 int modulus();
 int power();
 int factorial();
-int sqrt();
 int square();
 int trigno();
 int main();
