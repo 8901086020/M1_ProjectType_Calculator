@@ -1,5 +1,3 @@
-#Output Images
-
 
 ![1](https://user-images.githubusercontent.com/63248297/143230833-73f82235-6ab3-4807-8fb3-84e297a773e8.JPG)
 ![2](https://user-images.githubusercontent.com/63248297/143230848-c54d581b-2765-4de0-8aed-dda3534fe6f6.JPG)
