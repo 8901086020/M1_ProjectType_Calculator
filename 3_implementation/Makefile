@@ -1,3 +1,17 @@
+PROJ_NAME =M1_ProjectType_Calculator
+TEST_PROJ_NAME = Test_$(PROJ_NAME)
+
+SRC = src/addition.c\
+src/subtraction.c\
+src/division.c\
+src/modules.c\
+src/multiplication.c\
+src/factorial.c\
+src/power.c\
+src/square.c\
+src/trigno.c
+
+
 INC_H = inc
 INC_T = unity
 
