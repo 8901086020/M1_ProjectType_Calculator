@@ -12,7 +12,7 @@ void test_factorial(void);
 void test_modulus(void);
 void test_trigno(void);
 void test_square(void);
-void test_sqrt(void);
+
 
 void setUp(){}
 void tearDown(){}
@@ -83,8 +83,4 @@ void test_square(void) {
  
 }
 
-void test_sqrt(void) {
-  TEST_ASSERT_EQUAL(3, sqrt(9));
-  
- 
-}
+
