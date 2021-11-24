@@ -1,11 +1,9 @@
 #include<stdio.h>
 #include<math.h>
 
-int square(int b)
+int square(int n)
 {
     int  y;
-
-
-    y = b * b ;
+    y = n * n ;
 
 }
