@@ -46,6 +46,7 @@ threat in the upcoming dynamic world.
 
 # SDLC Activity Based Learning
 Build | Code Quality | Git Inspector | code quality score | code grade |
+|----------------------------------------------------------------------|
 |---------|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/f48ac2338bf345efa81df5366247ee9c)](https://www.codacy.com/gh/8901086020/M1_ProjectType_Calculator/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=8901086020/M1_ProjectType_Calculator&amp;utm_campaign=Badge_Grade)|-------------|----------------------|------------|
 
 #### Folder Structure
