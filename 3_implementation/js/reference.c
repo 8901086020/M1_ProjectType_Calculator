@@ -5,6 +5,5 @@ void division();
 void modulus();
 void power();
 void factorial();
-void sqrt();
 void square();
 void trigno();
