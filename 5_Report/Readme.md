@@ -17,6 +17,8 @@ https://www.knowprogram.com/c-programming/simple-calculator-program-c
 The switch-case statement is used to write a simple calculator program in C language. The remainder operator % is normally used with data values. To print the remainder
 operator %% is used in the first printf() function. The variable ch store the operator, similarly the variables num1, and num2 stores the two numbers. The switch has condition “ch” so the entered operator is matched with which case label those case label statements are executed, and display result to the screen. If the entered operator is not matched with the case labels then the default statement will be executed and it will display the message “Error! Invalid Operator.” to the screen.  
 
+
+
 ## Swot Analysis
 
  
@@ -100,6 +102,25 @@ I am using C programming language for Developing this simple basic calculator.
   
 # Class Diagram  
 # ![class table](https://user-images.githubusercontent.com/63248297/143068692-ea08798c-f491-4419-a6f0-ab3057a89d39.JPG)
+
+## Implementation 
+## ## Algorithm of Calculator Program:-
+
+Step 1: Declare local variables n1, n2, ans, choice. For example, where n1 and n2 take two numeric values, ans will store results and choice variable define the operator symbols.
+
+Step 2: Print the Choice (Addition, Subtraction, multiplication, division, factorial , square , squareroot , power , modulus , trigno etc.
+
+Step 3: Enter the Choice
+
+Step 4: Takes two numbers, n1 and n2
+
+Step 5: Switch case jump to an operator selected by the user
+
+Step 6: Store result into res variable.
+
+Step 7: Display the operation result
+
+Step 8: Exit from the program.
 
 
 
