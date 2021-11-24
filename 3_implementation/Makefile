@@ -1,15 +1,15 @@
 PROJ_NAME =M1_ProjectType_Calculator
 TEST_PROJ_NAME = Test_$(PROJ_NAME)
 
-SRC = src/addition.c\
-src/subtraction.c\
-src/division.c\
-src/modules.c\
-src/multiplication.c\
-src/factorial.c\
-src/power.c\
-src/square.c\
-src/trigno.c
+JS = js/addition.c\
+js/subtraction.c\
+js/division.c\
+js/modules.c\
+js/multiplication.c\
+js/factorial.c\
+js/power.c\
+js/square.c\
+js/trigno.c
 
 
 INC_H = inc
