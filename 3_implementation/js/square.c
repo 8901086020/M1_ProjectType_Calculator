@@ -1,4 +1,4 @@
-1.	#include<stdio.h>
+#include<stdio.h>
 #include<math.h>
   
 int square(int b)  
