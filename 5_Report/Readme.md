@@ -104,7 +104,7 @@ I am using C programming language for Developing this simple basic calculator.
 # ![class table](https://user-images.githubusercontent.com/63248297/143068692-ea08798c-f491-4419-a6f0-ab3057a89d39.JPG)
 
 ## Implementation 
-## ## Algorithm of Calculator Program:-
+## Algorithm of Calculator Program:-
 
 Step 1: Declare local variables n1, n2, ans, choice. For example, where n1 and n2 take two numeric values, ans will store results and choice variable define the operator symbols.
 
