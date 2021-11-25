@@ -1,5 +1,5 @@
 ## Implementation 
-## ## Algorithm of Calculator Program:-
+## Algorithm of Calculator Program:-
 
 Step 1: Declare local variables n1, n2, ans, choice. For example, where n1 and n2 take two numeric values, ans will store results and choice variable define the operator symbols.
 
